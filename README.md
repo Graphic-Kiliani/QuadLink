@@ -53,9 +53,7 @@ arXiv 2025
 
 
 <p align="center">
-  <video src="./assets/quadlink.mp4" width="90%" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img width="90%" alt="teaser" src="./assets/teaser.png">
 </p>
 
 
