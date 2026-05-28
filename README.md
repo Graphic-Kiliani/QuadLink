@@ -42,7 +42,7 @@ arXiv 2025
   <a href="https://arxiv.org/abs/2605.16813">
     <img src="https://img.shields.io/badge/arXiv-2605.16813-b31b1b.svg?logo=arXiv&logoColor=white" alt="arXiv" height="22">
   </a>
-  <a href="#">
+  <a href="https://graphic-kiliani.github.io/QuadLink-homepage/">
     <img src="https://img.shields.io/badge/Project%20Page-blue.svg" alt="Project Page" height="22">
   </a>
   <a href="https://visvise.com.cn/index">
