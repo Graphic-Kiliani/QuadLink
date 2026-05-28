@@ -5,7 +5,7 @@ arXiv 2025
 
 
 
-<h4 align="center" style="line-height:1.4; margin-top:0.6rem">
+<!-- <h4 align="center" style="line-height:1.4; margin-top:0.6rem">
   <a href="https://graphic-kiliani.github.io/homepage/">Yiheng Zhang</a><sup>1,2</sup>,
   <a href="https://czvvd.github.io/homepage/">Zhe Zhu</a><sup>2</sup>,
   <a href="https://trshen925.github.io">Tingrui Shen</a><sup>3</sup>,
@@ -36,18 +36,18 @@ arXiv 2025
 
 <p align="center" style="font-size:0.95em; color:#666; margin-top:0;">
   &dagger; Corresponding authors
-</p>
+</p> -->
 
 <p align="center"> 
-  <a href="https://arxiv.org/abs/2605.16813">
+  <!-- <a href="https://arxiv.org/abs/2605.16813">
     <img src="https://img.shields.io/badge/arXiv-2605.16813-b31b1b.svg?logo=arXiv&logoColor=white" alt="arXiv" height="22">
-  </a>
+  </a> -->
   <a href="https://graphic-kiliani.github.io/QuadLink-homepage/">
     <img src="https://img.shields.io/badge/Project%20Page-blue.svg" alt="Project Page" height="22">
   </a>
-  <a href="https://visvise.com.cn/index">
+  <!-- <a href="https://visvise.com.cn/index">
     <img src="https://img.shields.io/static/v1?label=&message=Official%20Site&color=2F6FEB&logo=googlechrome&logoColor=white" alt="Official Website" height="22">
-  </a>
+  </a> -->
 </p>
 
 
