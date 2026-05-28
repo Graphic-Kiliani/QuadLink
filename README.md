@@ -70,13 +70,5 @@ We provide a tool to convert artistic triangle meshes into production-ready quad
 
 
 
-## Citation
-If you find our work helpful, please consider citing:
-```bibtex
-@article{zhang2026quadlink,
-  title={QuadLink: Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning},
-  author={Zhang, Yiheng and Zhu, Zhe and Shen, Tingrui and Cai, Zhuojiang and Li, Tianxiao and Zhao, Zixing and Dong, Qiujie and Dou, Zhiyang and Wang, Jiepeng and Wan, Le and others},
-  journal={arXiv preprint arXiv:2605.16813},
-  year={2026}
-}
+
 ```
