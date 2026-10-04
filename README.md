@@ -3,9 +3,7 @@
 arXiv 2025
 </h4> -->
 
-
-
-<!-- <h4 align="center" style="line-height:1.4; margin-top:0.6rem">
+<h4 align="center" style="line-height:1.4; margin-top:0.6rem">
   <a href="https://graphic-kiliani.github.io/homepage/">Yiheng Zhang</a><sup>1,2</sup>,
   <a href="https://czvvd.github.io/homepage/">Zhe Zhu</a><sup>2</sup>,
   <a href="https://trshen925.github.io">Tingrui Shen</a><sup>3</sup>,
@@ -30,18 +28,18 @@ arXiv 2025
   <sup>5</sup> Tsinghua University &nbsp;&nbsp;|&nbsp;&nbsp;
   <sup>6</sup> The University of Hong Kong &nbsp;&nbsp;|&nbsp;&nbsp;
   <sup>7</sup> Massachusetts Institute of Technology &nbsp;&nbsp;|&nbsp;&nbsp;
-  <sup>8</sup> Texas A&M University &nbsp;&nbsp;|&nbsp;&nbsp;
+  <sup>8</sup> Texas A&amp;M University &nbsp;&nbsp;|&nbsp;&nbsp;
   <sup>9</sup> Macau University of Science and Technology
 </p>
 
 <p align="center" style="font-size:0.95em; color:#666; margin-top:0;">
   &dagger; Corresponding authors
-</p> -->
+</p>
 
-<p align="center"> 
-  <!-- <a href="https://arxiv.org/abs/2605.16813">
-    <img src="https://img.shields.io/badge/arXiv-2605.16813-b31b1b.svg?logo=arXiv&logoColor=white" alt="arXiv" height="22">
-  </a> -->
+<p align="center">
+  <a href="https://arxiv.org/abs/2605.16813">
+    <img src="https://img.shields.io/badge/arXiv-2605.16813-b31b1b.svg?logo=arXiv&amp;logoColor=white" alt="arXiv" height="22">
+  </a>
   <a href="https://graphic-kiliani.github.io/QuadLink-homepage/">
     <img src="https://img.shields.io/badge/Project%20Page-blue.svg" alt="Project Page" height="22">
   </a>
@@ -50,25 +48,15 @@ arXiv 2025
   </a> -->
 </p>
 
-
-
 <p align="center">
   <img width="90%" alt="teaser" src="./assets/teaser.png">
 </p>
-
 
 ## TODO
 
 - [x] Release Tri-to-Quad Operator for Data Curation.
 - [ ] Release code and checkpoints.
 
-
 ### Tri-to-Quad Operator
 
 We provide a tool to convert artistic triangle meshes into production-ready quad-dominant meshes via **Geometry Prefiltering**, **Global Merging Selection** and **Deterministic Normal Consistency**. The technical details can be found in our paper and the installation guide can be found in [Tri-to-Quad Operator](https://github.com/Graphic-Kiliani/Tri2Quad-Geometry-Aware-Triangle-to-Quad-Mesh-Conversion-Operator/blob/main/README.md).
-
-
-
-
-
-```
