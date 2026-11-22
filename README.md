@@ -56,4 +56,4 @@ arXiv 2025
 
 ### Tri-to-Quad Operator
 
-We provide a tool to convert artistic triangle meshes into production-ready quad-dominant meshes via **Geometry Prefiltering**, **Global Merging Selection** and **Deterministic Normal Consistency**. The technical details can be found in our paper and the installation guide can be found in [Tri-to-Quad Operator](https://github.com/Graphic-Kiliani/Tri2Quad-Geometry-Aware-Triangle-to-Quad-Mesh-Conversion-Operator/tree/24412fc7251a090a5bc1743104d25418eb49f95c).
+We provide a tool to convert artistic triangle meshes into production-ready quad-dominant meshes via **Geometry Prefiltering**, **Global Merging Selection** and **Deterministic Normal Consistency**. The technical details can be found in our paper and the installation guide can be found in [Tri-to-Quad Operator](https://github.com/Graphic-Kiliani/Tri2Quad-Geometry-Aware-Triangle-to-Quad-Mesh-Conversion-Operator/tree/f0cf2106ffe7e3e6eb32ff97f5d10af082b756f0).
